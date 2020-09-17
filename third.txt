@@ -1,1 +1,2 @@
 1 row third.txt
+2 row third.txt in master branch
