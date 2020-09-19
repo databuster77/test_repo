@@ -1,9 +1,12 @@
 1 row fourth.txt 
 
 2 row fourth.txt 
+<<<<<<< HEAD
 
 3 row fourth.txt 
 
 4 row fourth.txt
 
 5 row fourth.txt
+=======
+>>>>>>> parent of 8542c61... Update fourth.txt
